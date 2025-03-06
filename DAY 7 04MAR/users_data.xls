@@ -1,0 +1,6 @@
+uuid,date,firstname,surname,email
+123,2025-03-01,John,Doe,john@example.com
+124,2025-03-02,Jane,Smith,jane@example.com
+123,2025-03-01,John,Doe,john@example.com  
+125,2025-03-03,Bob,,bob@example.com 
+126,2025-03-04,Emily,Clark,

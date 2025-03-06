@@ -1,0 +1,5 @@
+[2025-03-04 12:05:23] - 200 - Request successful
+[2025-03-04 12:07:15] - 404 - Page not found
+[2025-03-04 12:10:45] - 500 - Internal server error
+[2025-03-04 12:15:10] - 200 - Request successful
+[2025-03-04 12:20:30] - 503 - Service unavailable
